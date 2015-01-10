@@ -10,4 +10,6 @@
 
 @interface ViewController : UIViewController
 
+- (IBAction)login2Tapped:(id)sender;
+
 @end
